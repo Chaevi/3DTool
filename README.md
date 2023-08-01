@@ -15,7 +15,7 @@
 -	Автоматическая генерация элементов списка в зависимости от количества объектов; :white_check_mark:
 -	Добавить возможность сохранения и загрузки сцены. :black_square_button:
   
-[![Демонстрационное видео](https://img.youtube.com/vi/<VIDEO_ID>/hqdefault.jpg)](https://www.youtube.com/embed/-nErdpLPD5k)
+[Демонстрационное видео](https://www.youtube.com/embed/-nErdpLPD5k)
 
 [<img src="https://img.youtube.com/vi/-nErdpLPD5k/hqdefault.jpg" width="600" height="400"
 />](https://www.youtube.com/embed/-nErdpLPD5k)
